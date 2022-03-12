@@ -1,6 +1,6 @@
 <div align='center'>
   
-  <img width="300" src="https://user-images.githubusercontent.com/60857927/158011975-161ea0a1-b8ec-407c-bfcc-4774ae9326f3.png" />
+  <img width="500" src="https://user-images.githubusercontent.com/60857927/158011975-161ea0a1-b8ec-407c-bfcc-4774ae9326f3.png" />
   
 </div>
 
@@ -61,7 +61,7 @@ Todas as tecnologias usadas na realização do projeto:
 
 </p>
 
-<p>**Obs.:** Caso não tenha o *yarn* instalado na máquina, basta instalar com o comando *npm install --global yarn*.</p>
+<p><b>Obs.:</b> Caso não tenha o <i>yarn</i> instalado na máquina, basta instalar com o comando <i>npm install --global yarn</i>.</p>
 
 </div>
 
